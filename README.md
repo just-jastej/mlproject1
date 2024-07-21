@@ -1,2 +1,3 @@
 # mlproject1
-this project was developed to help dragon real estate to predict the future prices of property using ml model. This model helps to give accuate prediction based on data provided by the company
+This project implements machine learning model to predict housing prices using using python libraries like NumPy, Pandas, Matplotlib, Sklearn, and Juptyer Notebook This model helps to give accuate prediction based on data input furnised by the company. The model is trained on historical house prices and coreesponding features
+
